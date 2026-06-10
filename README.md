@@ -4,8 +4,8 @@ Simulador de um cluster estilo **Kubernetes** (1 Master + N Workers) com um
 escalonador de PODs **multi-critério** próprio, comparado ao escalonador
 padrão do K8s.
 
-> **Disciplina:** Laboratório de Sistemas Operacionais — Unisinos
-> **Aluno:** _seu nome aqui_
+> **Disciplina:** Sistemas Operacionais: Análise e Aplicações
+> **Aluno:** _Eduarda Barth Cordova_
 
 ---
 
@@ -100,19 +100,7 @@ trabalho-so-scheduler/
 
 ## 🎬 Vídeo
 
-Link do vídeo (10 min): _adicionar URL do YouTube/Drive aqui._
-
-Roteiro sugerido (cobrindo os 10 itens da avaliação):
-
-1. **0:00–0:30** Introdução, objetivo do trabalho.
-2. **0:30–1:30** Arquitetura: Master, Workers, fila produtor-consumidor.
-3. **1:30–3:00** Estruturas no código (`models.py`, `master.py`).
-4. **3:00–4:00** Geração dos 15 PODs com requisitos variados.
-5. **4:00–6:00** Algoritmo de escalonamento custom (fórmula + pesos).
-6. **6:00–7:30** Execução ao vivo: `./run.sh` mostrando alocação.
-7. **7:30–8:30** Visualização e estatísticas.
-8. **8:30–9:30** Comparação Default × Custom.
-9. **9:30–10:00** Conclusão e GitHub.
+Link do vídeo (10 min): _https://drive.google.com/file/d/1EmAtELIOYGveW7nE6z3w5ZBjJIa66EyE/view?usp=sharing_
 
 ## 📄 Licença
 
